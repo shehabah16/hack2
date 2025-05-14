@@ -1,0 +1,1 @@
+chrome-extension://declgfomkjdohhjbcfemjklfebflhefl/assets/satus/satus.js

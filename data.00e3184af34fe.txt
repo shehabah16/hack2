@@ -1,0 +1,1 @@
+chrome-extension://declgfomkjdohhjbcfemjklfebflhefl/content-scripts/dynamic-theme.js
